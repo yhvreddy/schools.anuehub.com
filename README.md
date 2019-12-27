@@ -3,7 +3,7 @@ Manage All school data with n your hands.
 
 Project Details
 ---------------
-	School Management System is application to manage all school data and updating students daily information to they parents.
+ - School Management System is application to manage all school data and updating students daily information to there parents.
 	
 Modules
 - Adminissions
